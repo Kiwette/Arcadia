@@ -6,10 +6,12 @@ Description : Arcadia Zoo est une application web conçue pour améliorer l'inte
 Elle permettra également d'augmenter la visibilité, la notorieté, et l'image du zoo. Offrir aux visiteurs une experience améliorée et inoubliable.
 
 
+
 Vue détaillée du projet : L'application offre plusieurs espaces pour les visiteurs, les administrateurs, les vétérinaires et les employés, fournissant un accès personnalisé aux informations et fonctionnalités du zoo.
 
 Le site Web comportera : Une page d'accueil qui permettra aux visiteurs de visualiser les différents habitats, avec les animaux, avec leurs nombreuses informations. Elle permettra également de visualiser les différents services proposés : Restauration, Visite guidée, visite gratuite en petit train.
 Des avis seront également détaillés sur le site pour sensibiliser le visiteur à venir au zoo.
+
 
 L'espace visiteur comportera principalement : - la consultation des habitats et les animaux du zoo.
                                               - les services disponibles.
@@ -35,6 +37,7 @@ Vétérinaire : - Username : veterinaire
 
 Administrateur : - Username : admin
                  - Mot de passe : adminarcadia
+
 
 
 Technologies utilisées : 
