@@ -1,0 +1,83 @@
+body{
+    margin: 0 auto;
+    background-color:#F8F6E1;
+    height: 100%; 
+    overflow: hidden;
+}
+
+a{
+    color: #F8F6E1;
+  }
+  
+h1{
+    color:#F8F6E1;
+    font-size: 120px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    text-align: center;
+    width: 60%;
+  }
+ 
+  /*BODY*/
+
+
+/*HEADER*/
+
+.ensemble_jungle{
+  width: 60%;
+}
+.header2{
+    display : flex;
+    height: 300px;
+    width: 100%;
+    border: solid;
+    border-color: #39A598;
+    background-color: #39A598;     
+  }
+
+
+  .img_logo_zoo{
+    height: 90%;
+    margin-top: 10px;
+    margin-left:10px;
+ }
+
+  /* menu de navigation*/
+  .nav{
+    display : flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 30%;
+    margin-top: 150px;
+    font-size: 2rem;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  
+ }
+
+
+/*Premier Block*/
+
+.Div_Premiere{
+    display: flex;
+    flex-direction:row;
+    width: 100%;
+
+}
+
+.bloc_a_savoir{
+    padding-top: 20%;
+    font-size: 3rem;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;  
+}
+
+.Div_Premiere_Image{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
+  
+}
+
+.Image6{
+  width: 70%;
+}
+

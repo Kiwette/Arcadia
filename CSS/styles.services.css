@@ -1,0 +1,93 @@
+body{
+    margin: 0 auto;
+    background-color:#F8F6E1;/*couleur de fond*/
+    height: 100%; 
+    overflow: hidden;
+}
+
+a{
+    color: #F8F6E1;
+  }
+  
+  h1{
+    color:#F8F6E1;
+    font-size: 90px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    text-align: center;
+    width: 60%;
+  }
+
+
+/*HEADER*/
+
+.ensemble_services_Titre{
+    width: 60%;
+}
+
+.header{
+    display : flex;
+    height: 300px;
+    width: 100%;
+    border: solid;
+    border-color: #39A598;
+    background-color: #39A598;     
+  }
+  
+
+ .img_logo_zoo{
+    height: 250px;
+    margin-top: 25px;
+    margin-left: 25px;
+ }
+/* menu de navigation*/
+.nav{
+    display : flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 30%;
+    margin-top: 150px;
+    font-size: 2rem;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+    /*BODY*/
+
+/*Premier Block*/
+
+.Div_services{
+    display: flex;
+    flex-direction: row;
+    width: 100%;  
+}
+
+.Div_Services_image{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.ImageS{
+    width: 70%;
+
+    }
+
+/* Deuxieme Block */
+
+.Div_services{
+width: 100%;
+}
+
+.bloc_services{    
+    font-size: 2rem;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    border: solid;
+    border-color: #39A598;
+    width: 50%;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    margin-top: 10%;
+    
+  
+}

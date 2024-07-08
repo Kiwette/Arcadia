@@ -1,0 +1,165 @@
+body{
+    margin: 0 auto;
+    background-color:#F8F6E1;/*couleur de fond*/
+    width: 100vw;
+}
+
+a{
+    color:#F8F6E1
+  }
+  
+  h1{
+    font-size:6rem;
+    display: flex;
+  justify-content: center;
+  color:#39A598;
+  border: solid;
+  border-color: #39A598;
+  
+}
+
+    h2{
+        font-size:5rem;
+        display: flex;
+      justify-content: center;
+      color:#F8F6E1;       
+    }
+
+    input{ 
+        width:100%;
+        font-size:3rem;
+        color: #F8F6E1;
+        border: solid;
+       border-color: #F8F6E1;
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+    } 
+
+    label{
+        color:#F8F6E1;
+        font-size: 3rem;
+    }
+
+/*HEADER*/
+.header{
+  position: fixed;
+    display : flex;
+    flex-direction: row;
+    height: 300px;
+    width: 100%;
+    border: solid;
+    border-color: #39A598;
+    font-size:90px; 
+    background-color: #39A598;     
+ }
+
+     .img_logo_zoo{
+        height: 250px;
+        margin-top: 30px;
+        margin-left: 25px;
+     }
+
+     .Titre_Header{
+      
+        color:#F8F6E1;
+        font-size: 120px;
+        font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+        text-align: center;
+        width: 60%;
+      }
+     
+  /* menu de navigation*/
+  
+  nav{
+    display : flex;
+    justify-content:space-between;
+    list-style: none;
+    width: 20%;
+    margin-left: 1500px;
+    margin-top: 150px;
+    font-size: 3rem;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;}    
+
+      /*BODY*/
+.Navigation_Espace_Soigneur{
+  display : flex;position: fixed;
+  display : flex;
+  flex-direction: row;
+  height: 300px;
+  width: 100%;
+  font-size:90px; 
+  background-color: #F8F6E1; 
+  margin-top: 300px;
+  color: #39A598;
+  position: fixed;
+
+}
+
+    .Navigation_Espace_Soigneur{
+      width: 100vw;
+    }
+
+    .Menu_Soigneur{
+      margin: 2vw 20vw;
+      width: 60vw;
+      display: flex;
+      justify-content: space-around;
+    }
+
+    .Navigation_Soigneur{
+      color:#39A598
+    }
+
+      .Block_AvisVisiteur{
+     display: flex;
+    justify-content: center;
+    width: 100vw;
+    }
+
+    .Block_GestionDesServices{
+      display: flex;
+     justify-content: center;
+     width: 100vw;
+     }
+     .Block_LesAnimaux{
+      display: flex;
+     justify-content: center;
+     width: 100vw;
+     }
+    
+
+    .Div_Avis_image{
+   width: 25vw;
+   margin-right: 6vw;
+    }
+
+    .Mails_Clients{
+      width: 50vw;
+    }
+
+     .div_Avis_clients{   
+      margin: 3%;
+        background-color: #39A598;
+            font-size:3rem;
+            font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+            border: solid;
+            border-color: #39A598;
+            height: 90%;
+            display: flex;
+            flex-direction:column;
+                       
+     }
+  
+     .Block_LesAnimaux_General{
+      padding-top: 600px;
+      height:150rem;
+     }
+
+     .Block_AvisVisiteur_General{
+      height:150rem;
+     }
+    
+    .Block_Gestion_Services_General{
+      height:150rem;
+    }

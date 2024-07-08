@@ -1,0 +1,149 @@
+body{
+    margin: 0 auto;
+    background-color:#F8F6E1;
+    height: 100%; 
+    overflow: hidden; }
+    
+
+a{
+    color: #F8F6E1;
+      }
+
+      h1{
+        color:#F8F6E1;
+        font-size: 120px;
+        font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+        text-align: center;
+        width: 60%;
+      }
+     
+
+          label{
+            font-size: 60px;
+            color: #F8F6E1;       
+        }
+
+
+        input{
+            height: 120px;
+            width: 800px;
+            font-size: 40px;
+            border: solid;
+            border-color:#F8F6E1;
+        }
+
+        button {
+            height: 100px;
+            width: 300px;
+            font-size: 40px;
+            margin-top: 3%;
+            border: solid;
+            border-color: #F8F6E1;
+            margin-right: 1%;
+        }     
+
+
+/*BODY*/
+.landing-page{
+    display: flex;
+    justify-content: space-around;
+    height:300px;
+    width: 100%;
+}
+
+/*HEADER*/
+.header2{
+    display : flex;
+    height: 300px;
+    width: 100%;
+    border: solid;
+    border-color: #39A598;
+    background-color: #39A598;     
+  }
+
+  .img_logo_zoo{
+    height: 250px;
+    margin-top: 30px;
+    margin-left: 25px;
+ }
+
+
+  /* menu de navigation*/
+
+  .nav{
+    display : flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 30%;
+    margin-top: 150px;
+    font-size: 2rem;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  
+ }
+
+  /*BODY*/
+
+  .ensemble_loic{
+    display: flex;
+    justify-content: center;
+    width: 60%; 
+}
+
+ .Div_Loic{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .Div_Image_Loic{
+    width: 70%;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+ .Image17{
+    width: 100%;
+    height:auto;
+ 
+    }
+
+/* menu des informations de l'animal*/   
+.infos_animal{
+    height: 2200px;    
+    width: 90%; 
+    font-size:60px;  
+    margin-top: 5%;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    text-align: center;
+    }
+
+
+    .div_infos_animal{
+        display: flex;
+        justify-content: center;
+        height:30%;   
+        }
+    
+
+    .Informations_animal{
+        font-size:5rem;
+        height: 150px;
+        width: 1300px;
+        text-align: center;
+        background-color: #F8F6E1;
+        color: #39A598;
+        font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+        }
+        
+            .div_informations{
+                text-align:right;
+                margin-top: 8%;
+                margin-right: 40px;
+                }
+        
+                .Formulaire{
+                    margin-top: 3%;  
+                }
+                
+                
+                
