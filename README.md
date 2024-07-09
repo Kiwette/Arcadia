@@ -46,6 +46,7 @@ Technologies utilisées :
  - Base de données relationnelles : MySql
  - Base de données non relationnelles :
  - Déploiement : Heroku
+ - Git-hub
 
                                               
                                                     
