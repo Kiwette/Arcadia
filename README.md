@@ -44,9 +44,10 @@ Technologies utilisées :
  - Frontend : HTML, CSS
  - Back-end : PHP avec waamp
  - Base de données relationnelles : MySql
- - Base de données non relationnelles :
+ - Base de données non relationnelles :MongoDB
  - Déploiement : Heroku
  - Git-hub
+
 
                                               
                                                     
