@@ -2,7 +2,7 @@
 ECF dossier ARCADIA Zoo
 
 
-Description : Arcadia Zoo est une application web conçue pour améliorer l'interaction des visiteurs en fournissant des informations détaillées sur les habitats des animaux et les services du zoo.
+Description : Arcadia Zoo est une application web étudie pour  améliorer l'avis des visiteurs en fournissant des informations sur les animaux, leur habitat, et leur manière de vivre.
 Elle permettra également d'augmenter la visibilité, la notorieté, et l'image du zoo. Offrir aux visiteurs une experience améliorée et inoubliable.
 
 
@@ -42,10 +42,11 @@ Administrateur : - Username : admin
 
 Technologies utilisées : 
  - Frontend : HTML, CSS
- - Back-end : PHP avec Xaamp
+ - Back-end : PHP avec waamp
  - Base de données relationnelles : MySql
  - Base de données non relationnelles :
  - Déploiement : Heroku
+ - Git-hub
 
                                               
                                                     
