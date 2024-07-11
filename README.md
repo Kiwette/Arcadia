@@ -46,7 +46,7 @@ Technologies utilisées :
  - Base de données relationnelles : MySql
  - Base de données non relationnelles :MongoDB
  - Déploiement : Heroku
- - Git-hub
+ - Git-hub (https://github.com/Kiwette/Arcadia.git)
 
 
                                               
