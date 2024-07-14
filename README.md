@@ -42,11 +42,21 @@ Administrateur : - Username : admin
 
 Technologies utilisées : 
  - Frontend : HTML, CSS
- - Back-end : PHP avec waamp
+ - Back-end : PHP avec waampserver
  - Base de données relationnelles : MySql
  - Base de données non relationnelles :MongoDB
- - Déploiement : Heroku
+ - Déploiement : Heroku, flyi.o
  - Git-hub (https://github.com/Kiwette/Arcadia.git)
+
+Extensions utilisées sur Vs code : 
+** vscode-pdf
+** Code Runner
+** Boostrap 4
+** Data workspace, database client JDBC
+** Es Lint integrate Javascript
+** Java script ES6, Node JS, PHP server
+** Live serveur
+** MongoDb, MySQL
 
 
                                               
