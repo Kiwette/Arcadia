@@ -67,6 +67,6 @@ Extensions utilisées sur Vs code :
 
 
 https://trello.com/b/lKffacdu/trello-helene-studi <== lien du logiciel de gestion de projet (trello) 
-
+https://www.figma.com/files/team/1379362521098613888/recents-and-sharing/recently-viewed?fuid=1356971706358989746 <== lien pour la mise en page des wireframes
                                               
                                                     
