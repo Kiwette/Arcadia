@@ -28,15 +28,22 @@ L'espace vétérinaire comportera quant à lui : - Le suivi alimentaire des anim
 
 L'administrateur, le vététrinaire, ainsi que l'employé auront des identifiants de connexion afin d'accéder à chaque partie du site : 
 
-Employé :  - Username : employe
+ - Employé :  - Username : employe
            - Mot de passe : employearcadia
 
+           
 
-Vétérinaire : - Username : veterinaire
+
+ - Vétérinaire : - Username : veterinaire
               - Mot de passe : veterinairearcadia
 
-Administrateur : - Username : admin
+
+              
+
+- Administrateur : - Username : admin
                  - Mot de passe : adminarcadia
+
+                 
 
 
 
