@@ -59,5 +59,7 @@ Extensions utilisées sur Vs code :
 ** MongoDb, MySQL
 
 
+https://trello.com/b/lKffacdu/trello-helene-studi <== lien du logiciel de gestion de projet (trello) 
+
                                               
                                                     
