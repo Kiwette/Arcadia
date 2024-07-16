@@ -5,6 +5,8 @@ ECF dossier ARCADIA Zoo
 Description : Arcadia Zoo est une application web étudie pour  améliorer l'avis des visiteurs en fournissant des informations sur les animaux, leur habitat, et leur manière de vivre.
 Elle permettra également d'augmenter la visibilité, la notorieté, et l'image du zoo. Offrir aux visiteurs une experience améliorée et inoubliable.
 
+Pour commencer, j'ai choisi Visual Studio Code comme IDE. C'est un outil très populaire et puissant, avec plein de fonctionnalités et d'extensions qui facilitent la gestion du code, l'intégration d'autres outils.
+
 
 
 Vue détaillée du projet : L'application offre plusieurs espaces pour les visiteurs, les administrateurs, les vétérinaires et les employés, fournissant un accès personnalisé aux informations et fonctionnalités du zoo.
