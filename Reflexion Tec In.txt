@@ -1,0 +1,16 @@
+REFLEXION TECHNOLOGIQUE INITIALE
+Projet ECF Studi
+
+Celle-ci repose principalement sur la mise en place d'une architecture spécifique au "cahier des charges", répondant aux exigences et aux demandes.
+L'application s'adaptera à tous les écrans, que ce soit ordinateur, tablette ou mobile. Cette configuration responsive et dynamique se traduira par l'utilisation de plusieurs langages, notamment CSS et HTML, JavaScript et Boostrap.
+
+Concernant la base de données, sa gestion, nous utilisons SQL (MariaDB) en base relationnelle, et NoSQL (MongoDb) en non relationelle. 
+
+J'utilise le PHP avec PDO pour interagir avec MariaDB, des bibliothèques pour corriger les vulnérabilités, avec MongoDB. 
+Quant au composant métier côté serveur, celui-ci sera également codé en PHP, pour rendre l'application web plus rapide et plus efficace,  faciliter le déploiement et avoir un coût relativement bas. 
+
+Concernant la sécurité, j'utilise STRIDE comme outil pour identifier plus facilement la menace potentielle.
+J'assure à ce que les entrées utilisateur soient validées et nettoyées pour éviter les injections SQL, XSS..
+J'implémente également d'une authentification robuste, et je m'assure que toutes les configurations soient sécurisées, afin de garantir une bonne confidentialité des données.
+
+
