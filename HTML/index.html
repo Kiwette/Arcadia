@@ -103,7 +103,16 @@
             </div>
         </div>
     </section>
+    <script>
+      var titre = document.getElementById('big-title');
+      var texteTitre = titre.innerHTML;
+
+      var textePara = document.querySelector('.para').textContent;
+
+      alert ('Titre: ' + texteTitre +
+        '\nParagraphe 1 :' + textePara);
+    </script>
       <!--- le fichier JS doit être lu en dernier -->
-      <!-- <script src="/JavaScript/index.js"></script> -->
+      <script src="/JavaScript/index.js"></script> 
 </body>
 </html>

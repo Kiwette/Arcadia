@@ -1,0 +1,13 @@
+-- Active: 1720554868072@@127.0.0.1@3306
+CREATE TABLE services ( id INT AUTO_INCREMENT PRIMARY KEY, nom VARCHAR(255) NOT NULL, description TEXT NOT NULL );
+CREATE TABLE habitats ( id INT AUTO_INCREMENT PRIMARY KEY, nom VARCHAR(255) NOT NULL, description TEXT NOT NULL );
+CREATE TABLE animaux ( id INT AUTO_INCREMENT PRIMARY KEY, prenom VARCHAR(255) NOT NULL, race VARCHAR(255) NOT NULL, habitat_id INT, FOREIGN KEY (habitat_id) REFERENCES habitats(id) );
+CREATE TABLE veterinaires ( id INT AUTO_INCREMENT PRIMARY KEY, animal_id INT, etat TEXT NOT NULL, nourriture VARCHAR(255) NOT NULL, grammage INT NOT NULL, date_passage DATE NOT NULL, FOREIGN KEY (animal_id) REFERENCES animaux(id) );
+CREATE TABLE avis ( id INT AUTO_INCREMENT PRIMARY KEY, pseudo VARCHAR(255) NOT NULL, avis TEXT NOT NULL, valide BOOLEAN DEFAULT FALSE );
+
+CREATE TABLE utilisateurs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    role ENUM('admin', 'employe', 'veterinaire') NOT NULL
+);

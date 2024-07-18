@@ -4,9 +4,10 @@
   "description": "ECF dossier ARCADIA Zoo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "build": "react-scripts test",
+    "test": "eact-scripts eject"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC"
 }
