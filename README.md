@@ -71,5 +71,26 @@ Extensions utilisées sur Vs code :
 https://trello.com/b/lKffacdu/trello-helene-studi <== lien du logiciel de gestion de projet (trello) 
 https://www.figma.com/files/team/1379362521098613888/recents-and-sharing/recently-viewed?fuid=1356971706358989746 <== lien pour la mise en page des wireframes
 https://excalidraw.com/#json=5IwzMHBVC7SyRjq8onqMz,QL-bZly7R2cfCAQK0tgbDQ <== maquettages
+
+Lien permettant de visualiser mes pages WEB car site non complètement abouti, et non deployé.
+http://127.0.0.1:5500/HTML/index.html
+http://127.0.0.1:5500/HTML/page_coco.html
+http://127.0.0.1:5500/HTML/page_connexion.html
+http://127.0.0.1:5500/HTML/page_contacts.html
+http://127.0.0.1:5500/HTML/page_habitat_jungle.html
+http://127.0.0.1:5500/HTML/page_habitat_savane.html
+http://127.0.0.1:5500/HTML/page_habitat_marais.html
+http://127.0.0.1:5500/HTML/page_habitats.html
+http://127.0.0.1:5500/HTML/page_kamel.html
+http://127.0.0.1:5500/HTML/page_loic.html
+http://127.0.0.1:5500/HTML/page_mails.html
+http://127.0.0.1:5500/HTML/page_mathieu.html
+http://127.0.0.1:5500/HTML/page_moss.html
+http://127.0.0.1:5500/HTML/page_richard.html
+http://127.0.0.1:5500/HTML/page_services.html
+http://127.0.0.1:5500/HTML/page_simba.html
+http://127.0.0.1:5500/HTML/page_simba.html
+
+
                                               
                                                     
